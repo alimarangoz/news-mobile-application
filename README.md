@@ -3,6 +3,6 @@ Application is start with list of news, when you click one of the news it opens 
 
 # Demo
 
-This demo; lists hot news, shows details of the each news.
+- This demo; lists hot news, shows details of the each news.
 
 <img src="1.png" width="250px" height="350px"><img src="2.png" width="250px" height="350px">
